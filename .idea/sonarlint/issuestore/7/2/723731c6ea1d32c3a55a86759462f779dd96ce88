@@ -1,0 +1,14 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øˆ¿òûÿÿÿÿ
+m
+java:S1104"RMake driver a static final constant or non-public and provide accessors if needed.(ÔèË©úÿÿÿÿ
+x
+java:S1104"bMake landingPageProductName a static final constant or non-public and provide accessors if needed.(ÿž°°
+w
+java:S1104"aMake offersPageProductName a static final constant or non-public and provide accessors if needed.(•ó÷ë
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ê…’µøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(…¨àÝùÿÿÿÿ
+i	java:S116"TRename this field "ManagerPO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨þÒ 
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§©‡Ù
+M
+java:S5960+"+Remove this assertion from production code.(Áº–òüÿÿÿÿ8ƒÄú®œ0

@@ -1,0 +1,14 @@
+
+r
+java:S1104"WMake landingPage a static final constant or non-public and provide accessors if needed.(ÆÖè”ûÿÿÿÿ
+l
+java:S1104"VMake offersPage a static final constant or non-public and provide accessors if needed.(Þðúä
+m
+java:S1104	"RMake driver a static final constant or non-public and provide accessors if needed.(ÔèË©úÿÿÿÿ
+s
+java:S1104
+"VMake checkOutPO a static final constant or non-public and provide accessors if needed.(²ÄÙ‹8Ü¦•à›0
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ã¬š½
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÉÙ÷T
+7
+java:S1116"Remove this empty statement.(ôŸŽìúÿÿÿÿ

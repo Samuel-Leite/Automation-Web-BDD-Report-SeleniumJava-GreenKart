@@ -1,0 +1,16 @@
+
+m
+java:S1104
+"RMake driver a static final constant or non-public and provide accessors if needed.(ÔèË©úÿÿÿÿ
+x
+java:S1104"bMake landingPageProductName a static final constant or non-public and provide accessors if needed.(ÿ°°
+p
+java:S1104"UMake ManagerPO a static final constant or non-public and provide accessors if needed.(º¥æÛûÿÿÿÿ
+j
+java:S1104"TMake TestBase a static final constant or non-public and provide accessors if needed.(˜•¹ô
+s
+java:S1104"XMake GenericUtils a static final constant or non-public and provide accessors if needed.(ŞŞ¢§ÿÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(œİÏ
+n	java:S116"TRename this field "ManagerPO" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º¥æÛûÿÿÿÿ
+h	java:S116"SRename this field "TestBase" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜•¹ô
+q	java:S116"WRename this field "GenericUtils" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŞ¢§ÿÿÿÿÿ

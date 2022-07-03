@@ -1,0 +1,9 @@
+
+m
+java:S1104
+"RMake driver a static final constant or non-public and provide accessors if needed.(ÔèË©úÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®òßĞÿÿÿÿÿ
+[
+java:S1854"@Remove this useless assignment to local variable "parentWindow".(Äàäüüÿÿÿÿ
+L
+java:S1481"1Remove this unused "parentWindow" local variable.(Äàäüüÿÿÿÿ
